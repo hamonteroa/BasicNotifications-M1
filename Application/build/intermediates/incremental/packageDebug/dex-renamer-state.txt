@@ -1,0 +1,7 @@
+#Tue Nov 08 09:42:18 PET 2016
+base.0=/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d9c8df1d19097141870993a1f77c414cf8d7ff04
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26bfe8e6fd13cb9a9ed6faa77edede4cfe680b3f/classes.dex
+base.1=/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26bfe8e6fd13cb9a9ed6faa77edede4cfe680b3f
+file.0=/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d9c8df1d19097141870993a1f77c414cf8d7ff04/classes.dex

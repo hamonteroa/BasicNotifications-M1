@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_stat_notification.png",
+        "source": "/Users/hamonteroa/AndroidStudioProjects/BasicNotifications/Application/src/main/res/drawable-mdpi/ic_stat_notification.png"
+    }
+]
